@@ -1,6 +1,3 @@
-ABSTRACT
-
-The importance of pesticides in crop production and improvement is irrefutable. It is used to control destructive pests that become the reason for plant disease. Despite the importance of pesticides they are toxic and persistent in nature and can cause direct and indirect adverse effects to human health after entering the food chain and groundwater. (Tariq, Afzal, Hussain, & Sultana, 2007). Pesticides can be degraded by different groups of microorganisms including the members of phylum actinobacteria, Ascomycota, chlorophyta, and Protobacteria (D. Sharma & Singh, 2012). In the following study, we will focus on the isolation and characterization of bifenthrin-degrading microorganisms from the agricultural soil of Multan, Pakistan. Additionally, the impact of several growth parameters like temperature, pH, inoculum concentration, and the effect of the bacterial consortium was also investigated and FTIR analysis described the biodegradation of bifenthrin by the bacterial isolates and bacterial consortium into non-harmful metabolites.
 
 ## INTRODUCTION:
 
@@ -8,3 +5,7 @@ The importance of pesticides in crop production and improvement is irrefutable. 
 
 Agriculture in the contemporary era now heavily relies on pesticide application. The use of pesticides to safeguard crops against different pests, insects, ticks, and mites is steadily rising. In the early 1970s, the use of chemical fertilizers contributed to one-fourth of the global agricultural output. Now, synthetic fertilizers, pesticides, and irrigation have all boosted the agricultural system. Mechanization in farmland led to the transition from traditional agriculture to modern agriculture. (Rezaei et al., 2018)
 Techniques of agriculture that have been used in many regions of Europe and other countries, increased agricultural productivity and production between the 16th and 18th centuries. When the primary goal of agricultural labor gave way to profit maximization, then natural resources started to be used in a destructive manner. Farmers produce 50% of the planet. Between 1960 and 2000, the amount of food produced worldwide grew 2.5 times more due to the high usage of pesticides and fertilizers. (Gamón et al., 2003)
+
+- one
+- two
+- three
