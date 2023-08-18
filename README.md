@@ -1,0 +1,5 @@
+ABSTRACT
+
+The importance of pesticides in crop production and improvement is irrefutable. It is used to control destructive pests that become the reason for plant disease. Despite the importance of pesticides they are toxic and persistent in nature and can cause direct and indirect adverse effects to human health after entering the food chain and groundwater. (Tariq, Afzal, Hussain, & Sultana, 2007). Pesticides can be degraded by different groups of microorganisms including the members of phylum actinobacteria, Ascomycota, chlorophyta, and Protobacteria (D. Sharma & Singh, 2012). In the following study, we will focus on the isolation and characterization of bifenthrin-degrading microorganisms from the agricultural soil of Multan, Pakistan. Additionally, the impact of several growth parameters like temperature, pH, inoculum concentration, and the effect of the bacterial consortium was also investigated and FTIR analysis described the biodegradation of bifenthrin by the bacterial isolates and bacterial consortium into non-harmful metabolites.
+
+# INTRODUCTION:
