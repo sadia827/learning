@@ -14,7 +14,8 @@ Techniques of agriculture that have been used in many regions of Europe and othe
 2. second item
 3. 3rd item
 
--------------------------
-head1 | head2
------------------------------------------------------------------
-abc | efg
+|  h | h2  |   |   |   |
+|---|---|---|---|---|
+| asda  |  sadsa |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
